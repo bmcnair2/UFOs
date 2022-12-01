@@ -6,7 +6,7 @@ The purpose of this code is to display a table organizing UFO data stored as a J
 ## Results
 By typing in the suggested search elements as the filters, the result returns the specific matches for the search. Make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter. For resetting the filter criteria, click the UFO Sightings at the top left of the website or off the page.
 
-![Alt text](webpage.png)
+![Alt text](Module 12/webpage.png)
 
 ## Summary
 One drawback to this webpage is the user must know specific dates, cities, or shapes to search. Some shapes like "light" might not be as easy to understand. The filters require correct lower-case spellings and cannot include spaces at the end. The city that was used, for example, could not be typed as "elcajon", “el cajon_”, or "El Cajon". The only acceptable input would be "el cajon".
